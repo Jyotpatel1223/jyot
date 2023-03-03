@@ -20,7 +20,7 @@ void main()
 	scanf("%D",&s3);
 	
 	printf("\nroll no%d",rollno);
-	printf("\n entername:%s",name);
+	printf("\n enter name:%s",name);
 	total=s1+s2+s3;
 	per=(float)total/3;
 	printf("\ntotal:%d",total);
